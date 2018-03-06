@@ -1,0 +1,6 @@
+[package]
+name = "talking-clock"
+version = "0.1.0"
+authors = ["Cam <cjirmas@gmail.com>"]
+
+[dependencies]
